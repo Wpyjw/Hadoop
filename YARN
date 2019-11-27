@@ -1,0 +1,8 @@
+YARN: 两类长期运行的守护进程：资源管理器：管理集群上资源使用
+节点管理器：运行在集群中所有节点上且能够启动和监控容器的。
+容器：执行特定应用程序的进程
+
+YARN的三种调度器：FIFO Scheduler
+Capacity Scheduler
+Fair Scheduler
+容量调度器配置文件：capacity-scheduler.xml 
